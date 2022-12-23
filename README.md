@@ -4,16 +4,16 @@
 ![WhatsApp Image 2022-12-23 at 11 10 25 AM](https://user-images.githubusercontent.com/66225746/209278258-9f4cbf9b-5a7a-41d3-ae9e-19e7263a7e13.jpeg)
 
 
-A new Flutter project.
+# A new Flutter project.
 
 ## Beautiful Weather App UI with using API support for dark mode . Tt will tell what needs to be done at that temperature by providing different temperatures in different cities
 
-## Getting Started
+# Getting Started
 
-## Usage
+# Usage
 
-# This weather app is an app that I have designed based on an AI concept.
-Tt will tell what needs to be done at that temperature by providing different temperatures in different cities. 
+## This weather app is an app that I have designed based on an AI concept.
+## Tt will tell what needs to be done at that temperature by providing different temperatures in different cities. 
 
 This project is a starting point for a Flutter application.
 
