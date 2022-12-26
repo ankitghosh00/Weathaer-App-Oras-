@@ -12,7 +12,7 @@ dependencies:
 
   cupertino_icons: ^1.0.5
   geolocator: ^3.0.1
-  http: ^0.12.2
+  http: ">=0.12.2 <0.14.0"
   flutter_spinkit: ^3.1.0
 
 dev_dependencies:
