@@ -15,8 +15,8 @@ Beautiful Weather App UI with using API support for dark mode . It will tell wha
 ## This weather app is an app that I have designed based on an AI concept.It will tell what needs to be done at that temperature by providing different temperatures in different cities. 
 
 # Feature
-## This is a very beginning friendly project of Flutter. A simple weather forecast App using Open Weather #MapAPI. I have used #StatefulWidget for state management. For
-network calls I used the popular Flutter package geolocator and flutter_spinkit
+## This is a very beginning friendly project of Flutter. A simple weather forecast App using Open Weather MapAPI. I have used #StatefulWidget for  statemanagement. For
+## network calls I used the popular Flutter package geolocator and flutter_spinkit
 
 This project is a starting point for a Flutter application.
 
