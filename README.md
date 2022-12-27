@@ -6,13 +6,13 @@
 
 ## A new Flutter project.
 
-Beautiful Weather App UI with using API support for dark mode . Tt will tell what needs to be done at that temperature by providing different temperatures in different cities
+Beautiful Weather App UI with using API support for dark mode . It will tell what needs to be done at that temperature by providing different temperatures in different cities
 
 # Getting Started
 
 # Usage
 
-## This weather app is an app that I have designed based on an AI concept.Tt will tell what needs to be done at that temperature by providing different temperatures in different cities. 
+## This weather app is an app that I have designed based on an AI concept.It will tell what needs to be done at that temperature by providing different temperatures in different cities. 
 
 This project is a starting point for a Flutter application.
 
